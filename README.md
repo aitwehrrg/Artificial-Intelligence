@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-An archive of artificial intelligence algorithms implementation programs for reference.
+An archive of artificial intelligence algorithm implementation programs for reference.
