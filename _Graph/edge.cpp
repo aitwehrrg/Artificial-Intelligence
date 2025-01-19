@@ -1,7 +1,6 @@
 #include "vertex.cpp"
 
 struct Edge {
-    public:
     Vertex* u;
     Vertex* v;
     int w;

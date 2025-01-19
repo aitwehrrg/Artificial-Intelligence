@@ -1,6 +1,5 @@
 #include <string>
-
-using namespace std;
+using std::string;
 
 struct Vertex {
     string label;
